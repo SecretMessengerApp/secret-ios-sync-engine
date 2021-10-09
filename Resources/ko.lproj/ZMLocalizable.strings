@@ -1,0 +1,12 @@
+// 
+
+
+
+"conversation.username.groupingSeparator" = "，";
+
+"user_session.error.blacklisted-email" = "이 이메일 주소는 허용되지 않습니다";
+"user_session.error.email-exists" = "해당 이메일은 이미 등록되었습니다.";
+"user_session.error.invalid-email" = "이메일 주소가 유효하지 않습니다.";
+"user_session.error.invalid-code" = "유효한 인증번호를 입력해 주세요";
+"user_session.error.unauthorized-email" = "오류가 발생했습니다，다시 시도해 주세요";
+"user_session.error.unknown" = "오류가 발생했습니다，다시 시도해 주세요";

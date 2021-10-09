@@ -1,0 +1,12 @@
+// 
+
+
+
+"conversation.username.groupingSeparator" = ", ";
+
+"user_session.error.blacklisted-email" = "Indirizzo email non consentito";
+"user_session.error.email-exists" = "Indirizzo email già registrato";
+"user_session.error.invalid-email" = "Indirizzo email non valido";
+"user_session.error.invalid-code" = "Inserisci un codice valido";
+"user_session.error.unauthorized-email" = "Qualcosa è andato storto, si prega di riprovare";
+"user_session.error.unknown" = "Qualcosa è andato storto, si prega di riprovare";

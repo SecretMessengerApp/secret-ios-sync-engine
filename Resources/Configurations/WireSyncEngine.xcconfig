@@ -1,0 +1,4 @@
+
+#include "zmc-config/ios.xcconfig"
+
+PRODUCT_NAME = WireSyncEngine

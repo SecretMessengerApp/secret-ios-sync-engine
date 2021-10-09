@@ -1,0 +1,216 @@
+// 
+
+
+
+
+"push.notification.default" = "Нове повідомлення";
+
+// Push Title: [Conversation Name] in [Team Name]
+"push.notification.title" = "%1$@ в %2$@";
+
+// Ephemeral
+"push.notification.ephemeral.title" = "Хтось";
+"push.notification.ephemeral" = "Надіслав повідомлення";
+"push.notification.ephemeral.mention" = "Згадав вас";
+"push.notification.ephemeral.reply" = "Відповів(-ла) вам";
+
+// 2 Components: Sender, Message
+"push.notification.add.message.group" = "%1$@: %2$@";
+"push.notification.add.message.group.nousername" = "Нове повідомлення: %1$@";
+"push.notification.add.message.group.nousername.noconversationname" = "Нове повідомлення: %1$@";
+"push.notification.add.message.group.noconversationname" = "%1$@ в розмові: %2$@";
+
+// 1 Component: Message
+"push.notification.add.message.oneonone" = "%1$@";
+"push.notification.add.message.oneonone.nousername" = "Нове повідомлення: %1$@";
+
+// UNKNOWN MESSAGE
+"push.notification.add.unknown.group" = "%1$@: нове повідомлення";
+"push.notification.add.unknown.group.nousername" = "Нове повідомлення";
+"push.notification.add.unknown.group.nousername.noconversationname" = "Нове повідомлення";
+"push.notification.add.unknown.group.noconversationname" = "%1$@ надіслав(-ла) повідомлення";
+
+"push.notification.add.unknown.oneonone" = "Нове повідомлення";
+"push.notification.add.unknown.oneonone.nousername" = "Нове повідомлення";
+
+// Message with mention
+// 2 Components: Sender, Message
+
+"push.notification.add.message.group.mention" = "Згадка від %1$@: %2$@";
+"push.notification.add.message.group.nousername.mention" = "Нова згадка: %1$@";
+"push.notification.add.message.group.nousername.noconversationname.mention" = "Нова згадка: %1$@";
+"push.notification.add.message.group.noconversationname.mention" = "%1$@ згадав(-ла) вас в розмові: %2$@";
+
+// 1 Component: Message
+"push.notification.add.message.oneonone.mention" = "Згадка: %1$@";
+"push.notification.add.message.oneonone.nousername.mention" = "Нова згадка: %1$@";
+
+// Message with quote
+// 2 Components: Sender, Message
+
+"push.notification.add.message.group.reply" = "Відповідь від %1$@: %2$@";
+"push.notification.add.message.group.nousername.reply" = "Нова відповідь: %1$@";
+"push.notification.add.message.group.nousername.noconversationname.reply" = "Нова відповідь: %1$@";
+"push.notification.add.message.group.noconversationname.reply" = "%1$@ відповів(-ла) на ваше повідомлення в розмові: %2$@";
+
+// 1 Component: Message
+"push.notification.add.message.oneonone.reply" = "Відповідь: %1$@";
+"push.notification.add.message.oneonone.nousername.reply" = "Нова відповідь: %1$@";
+
+// IMAGE
+"push.notification.add.image.group" = "%1$@ поділився(-лась) картинкою";
+"push.notification.add.image.group.nousername" = "Нова картинка";
+"push.notification.add.image.group.nousername.noconversationname" = "Нава картинка в розмові";
+"push.notification.add.image.group.noconversationname" = "%1$@ поділився(-лась) картинкою в розмові";
+
+"push.notification.add.image.oneonone" = "Поділився(-лась) картинкою";
+"push.notification.add.image.oneonone.nousername" = "Нава картинка в розмові";
+
+// VIDEO
+"push.notification.add.video.group" = "%1$@ поділився(-лась) відео";
+"push.notification.add.video.group.nousername" = "Нове відео";
+"push.notification.add.video.group.nousername.noconversationname" = "Нове відео в розмові";
+"push.notification.add.video.group.noconversationname" = "%1$@ поділився(-лась) відео в розмові";
+
+"push.notification.add.video.oneonone" = "Поділився(-лась) відео";
+"push.notification.add.video.oneonone.nousername" = "Нове відео в розмові";
+
+// AUDIO
+"push.notification.add.audio.group" = "%1$@ поділився(-лась) аудіоповідомленням";
+"push.notification.add.audio.group.nousername" = "Нове аудіоповідомлення";
+"push.notification.add.audio.group.nousername.noconversationname" = "Нові аудіоповідомлення в розмові";
+"push.notification.add.audio.group.noconversationname" = "%1$@ поділився(-лась) аудіоповідомленням в розмові";
+
+"push.notification.add.audio.oneonone" = "Поділився(-лась) аудіоповідомленням";
+"push.notification.add.audio.oneonone.nousername" = "Нові аудіоповідомлення в розмові";
+
+// FILE
+"push.notification.add.file.group" = "%1$@ поділився(-лась) файлом";
+"push.notification.add.file.group.nousername" = "Новий файл";
+"push.notification.add.file.group.nousername.noconversationname" = "Новий файл в розмові";
+"push.notification.add.file.group.noconversationname" = "%1$@ поділився(-лась) файлом в розмові";
+
+"push.notification.add.file.oneonone" = "Поділився(-лась) файлом";
+"push.notification.add.file.oneonone.nousername" = "Новий файл в розмові";
+
+// LOCATION
+"push.notification.add.location.group" = "%1$@ поділився(-лась) розташуванням";
+"push.notification.add.location.group.nousername" = "Нове розташування";
+"push.notification.add.location.group.nousername.noconversationname" = "Нове розташування в розмові";
+"push.notification.add.location.group.noconversationname" = "%1$@ поділився(-лась) розташуванням в розмові";
+
+"push.notification.add.location.oneonone" = "Поділився(-лась) розташуванням";
+"push.notification.add.location.oneonone.nousername" = "Нове розташування в розмові";
+
+// SELF ADDED/REMOVED TO GROUP
+"push.notification.member.join.self" = "%1$@ додав(-ла) вас";
+"push.notification.member.join.self.noconversationname" = "%1$@ додав(-ла) вас до розмови";
+"push.notification.member.join.self.nousername.noconversationname" = "Ви були додані до розмови";
+"push.notification.member.join.self.nousername" = "Ви були додані";
+
+"push.notification.member.leave.self" = "%1$@ видалив(-ла) вас";
+"push.notification.member.leave.self.noconversationname" = "%1$@ видалив(-ла) вас з розмови";
+"push.notification.member.leave.self.nousername.noconversationname" = "Ви були видалені з розмови";
+"push.notification.member.leave.self.nousername" = "Вас видалили";
+
+// EPHEMERAL MESSAGE TIMER UPDATE
+"push.notification.message-timer.update" = "%@ встановив(-ла) таймер повідомлень на %@";
+"push.notification.message-timer.update.nousername" = "Хтось встановив таймер повідомлень на %@";
+"push.notification.message-timer.update.noconversationname" = "%@ встановив(-ла) таймер повідомлень на %@ в розмові";
+"push.notification.message-timer.update.nousername.noconversationname" = "Хтось встановив таймер повідомлень на %@ в розмові";
+
+"push.notification.message-timer.off" = "%@ вимкнув(-ла) таймер повідомлень";
+"push.notification.message-timer.off.nousername" = "Хтось вимкнув таймер повідомлень";
+"push.notification.message-timer.off.noconversationname" = "%@ вимкнув(-ла) таймер повідомлень в розмові";
+"push.notification.message-timer.off.nousername.noconversationname" = "Хтось вимкнув таймер повідомлень в розмові";
+
+// VIDEO CALLS
+"push.notification.call.started.video.oneonone" = "дзвонить з відео";
+"push.notification.call.started.video.oneonone.nousername" = "Хтось дзвонить з відео";
+
+"push.notification.call.started.video.group" = "%1$@ дзвонить з відео";
+"push.notification.call.started.video.group.nousername" = "Хтось дзвонить з відео";
+"push.notification.call.started.video.group.noconversationname" = "%1$@ дзвонить з відео в розмові";
+"push.notification.call.started.video.group.nousername.noconversationname" = "Хтось дзвонить з відео в розмові";
+
+// VOICE CALLS
+"push.notification.call.started.oneonone" = "дзвонить";
+"push.notification.call.started.oneonone.nousername" = "Хтось дзвонить";
+
+"push.notification.call.started.group" = "%1$@ дзвонить";
+"push.notification.call.started.group.nousername" = "Хтось дзвонить";
+"push.notification.call.started.group.noconversationname" = "%1$@ дзвонить у розмові";
+"push.notification.call.started.group.nousername.noconversationname" = "Хтось дзвонить у розмові";
+
+// MISSED CALLS
+"push.notification.call.missed.group" = "%1$@ дзвонив(-ла)";
+"push.notification.call.missed.group.nousername" = "Хтось дзвонив";
+"push.notification.call.missed.group.nousername.noconversationname" = "Хтось подзвонив у розмові";
+"push.notification.call.missed.group.noconversationname" = "%1$@ подзвонив(-ла) у розмові";
+
+"push.notification.call.missed.oneonone" = "дзвонив(-ла)";
+"push.notification.call.missed.oneonone.nousername" = "Хтось дзвонив";
+
+// CALLKIT
+"push.notification.callkit.call.started.group" = "%1$@ в %2$@";
+"push.notification.callkit.call.started.group.nousername.noconversationname" = "Хтось дзвонить у розмові";
+"push.notification.callkit.call.started.group.nousername" = "Хтось дзвонить в %1$@";
+"push.notification.callkit.call.started.group.noconversationname" = "%@ дзвонить у розмові";
+
+// CONVERSATION CREATE
+"push.notification.conversation.create" = "%1$@ створив(-ла) групу";
+"push.notification.conversation.create.nousername" = "Хтось створив групу";
+
+// CONVERSATION DELETE
+"push.notification.conversation.delete" = "%1$@ deleted the group";
+"push.notification.conversation.delete.nousername" = "Someone deleted the group";
+
+// CONNECTIONS (there should be no alert titles for these)
+"push.notification.connection.request" = "%@ хоче бути доданий(-а) до ваших контактів";
+"push.notification.connection.request.nousername" = "Хтось був доданий до ваших контактів";
+
+"push.notification.connection.accepted" = "%@ тепер доданий(-а) до вашого списку контактів";
+"push.notification.connection.accepted.nousername" = "У вас з'явились нові контакти";
+
+// FAILED MESSAGE
+"push.notification.failed.message.oneonone" = "Неможливо надіслати повідомлення";
+"push.notification.failed.message.oneonone.nousername" = "Неможливо надіслати повідомлення";
+
+"push.notification.failed.message.group" = "Неможливо надіслати повідомлення";
+"push.notification.failed.message.group.noconversationname" = "Неможливо надіслати повідомлення";
+
+// AVAILABILITY ALERT
+
+"push.notification.alert.availability.away.title.team" = "Сповіщення вимкнено в %@";
+"push.notification.alert.availability.away.title" = "Сповіщення вимкнено";
+"push.notification.alert.availability.busy.title.team" = "Налаштування сповіщень змінились в %@";
+"push.notification.alert.availability.busy.title" = "Налаштування сповіщень змінились";
+
+"push.notification.alert.availability.away.message" = "Тепер статус впливає на сповіщення. Ви зараз відсутні, і тому не будете отримувати ніяких сповіщень.";
+"push.notification.alert.availability.busy.message" = "Тепер статус впливає на сповіщення. Ви зараз зайняті, і тому будете отримувати сповіщення, коли хтось згадає вас або відповість на ваші повідомлення.";
+
+// REACTIONS
+"push.notification.reaction.group" = "%1$@ %2$@ ваше повідомлення";
+"push.notification.reaction.group.nousername.noconversationname" = "Комусь %@ повідомлення в розмові";
+"push.notification.reaction.group.nousername" = "Комусь %@ ваше повідомлення";
+"push.notification.reaction.group.noconversationname" = "%1$@ %2$@ ваше повідомлення в розмові";
+
+"push.notification.reaction.oneonone" = "%1$@ ваше повідомлення";
+"push.notification.reaction.oneonone.nousername" = "Комусь %@ ваше повідомлення";
+
+// NEW USER (no alert title for this)
+"push.notification.new_user" = "%@ тільки що приєднався(-лася) до Secret";
+
+// OTHER
+"push.notification.action.message.open" = "Вiдкрити";
+"push.notification.action.message.reply" = "Відповісти";
+"push.notification.action.message.reply.button.title" = "Надіслати";
+"push.notification.action.message.reply.placeholder" = "Напишіть повідомлення";
+"push.notification.action.conversation.mute" = "Вимкнути звук";
+"push.notification.action.message.like" = "♥";
+
+"push.notification.action.call.accept" = "Прийняти";
+"push.notification.action.call.ignore" = "Скасувати";
+"push.notification.action.call.message" = "Повідомлення";
+"push.notification.action.call.callback" = "Передзвонити";
+"push.notification.action.connection.accept" = "Прийняти";

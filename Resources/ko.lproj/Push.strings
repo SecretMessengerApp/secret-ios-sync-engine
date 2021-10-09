@@ -1,0 +1,213 @@
+
+
+"push.notification.default" = "새 메시지";
+
+// Push Title: [Conversation Name] in [Team Name]
+"push.notification.title" = "%1$@ 은 %2$@에";
+
+// Ephemeral
+"push.notification.ephemeral.title" = "누군가";
+"push.notification.ephemeral" = "메시지 보내기";
+"push.notification.ephemeral.mention" = "회원님을@함";
+"push.notification.ephemeral.reply" = "회원님에게 답장함";
+
+// 2 Components: Sender, Message
+"push.notification.add.message.group" = "%1$@：%2$@";
+"push.notification.add.message.group.nousername" = "새 메시지：%1$@";
+"push.notification.add.message.group.nousername.noconversationname" = "새 메시지：%1$@";
+"push.notification.add.message.group.noconversationname" = "%1$@님：%2$@";
+
+// 1 Component: Message
+"push.notification.add.message.oneonone" = "%1$@";
+"push.notification.add.message.oneonone.nousername" = "새 메시지：%1$@";
+
+// UNKNOWN MESSAGE
+"push.notification.add.unknown.group" = "%1$@：새 메시지";
+"push.notification.add.unknown.group.nousername" = "새 메시지";
+"push.notification.add.unknown.group.nousername.noconversationname" = "새 메시지";
+"push.notification.add.unknown.group.noconversationname" = "%1$@님이 메시지를 보냈습니다";
+
+"push.notification.add.unknown.oneonone" = "새 메시지";
+"push.notification.add.unknown.oneonone.nousername" = "새 메시지";
+
+// Message with mention
+// 2 Components: Sender, Message
+
+"push.notification.add.message.group.mention" = "%1$@：%2$@님이 회원님을 멘션함";
+"push.notification.add.message.group.nousername.mention" = "회원님을 멘션한 그룹: %1$@";
+"push.notification.add.message.group.nousername.noconversationname.mention" = "회원님을 멘션한 그룹: %1$@";
+"push.notification.add.message.group.noconversationname.mention" = "%1$@님이 在%2$@에서 회원님을 멘션함";
+
+// 1 Component: Message
+"push.notification.add.message.oneonone.mention" = "멘션: %1$@";
+"push.notification.add.message.oneonone.nousername.mention" = "회원님을 멘션한 그룹: %1$@";
+
+// Message with quote
+// 2 Components: Sender, Message
+
+"push.notification.add.message.group.reply" = "%1$@：%2$@님이 회원님에게 답장함";
+"push.notification.add.message.group.nousername.reply" = "새 답장: %1$@";
+"push.notification.add.message.group.nousername.noconversationname.reply" = "새 답장: %1$@";
+"push.notification.add.message.group.noconversationname.reply" = "%1$@님이%2$@에서 회원님에게 답장함";
+
+// 1 Component: Message
+"push.notification.add.message.oneonone.reply" = "답장: %1$@";
+"push.notification.add.message.oneonone.nousername.reply" = "새 답장: %1$@";
+
+// IMAGE
+"push.notification.add.image.group" = "%1$@ 님이 사진을 공유하였습니다";
+"push.notification.add.image.group.nousername" = "새 사진";
+"push.notification.add.image.group.nousername.noconversationname" = "새 사진을 받았습니다";
+"push.notification.add.image.group.noconversationname" = "%1$@ 님이 채팅 시 사진을 공유했습니다";
+
+"push.notification.add.image.oneonone" = "사진을 공유함";
+"push.notification.add.image.oneonone.nousername" = "새 사진을 받음";
+
+// VIDEO
+"push.notification.add.video.group" = "%1$@ 님이 비디오를 공유함";
+"push.notification.add.video.group.nousername" = "새 비디오";
+"push.notification.add.video.group.nousername.noconversationname" = "새 비디오";
+"push.notification.add.video.group.noconversationname" = "%1$@ 님이 대화에서 비디오를 공유했습니다";
+
+"push.notification.add.video.oneonone" = "비디오를 공유함";
+"push.notification.add.video.oneonone.nousername" = "새 비디오";
+
+// AUDIO
+"push.notification.add.audio.group" = "%1$@ 님이 음성 메시지를 공유함";
+"push.notification.add.audio.group.nousername" = "새로운 음성 메시지";
+"push.notification.add.audio.group.nousername.noconversationname" = "대화에 새로운 음성 메시지가 있습니다";
+"push.notification.add.audio.group.noconversationname" = "%1$@ 님이 대화에서 새로운 음성 메시지를 공유함";
+
+"push.notification.add.audio.oneonone" = "음성 메시지를 공유함";
+"push.notification.add.audio.oneonone.nousername" = "대화에 새로운 음성 메시지가 생겼습니다";
+
+// FILE
+"push.notification.add.file.group" = "%1$@ 님이 파일을 공유하였습니다";
+"push.notification.add.file.group.nousername" = "새로운 파일";
+"push.notification.add.file.group.nousername.noconversationname" = "대화에 새로운 파일이 있습니다";
+"push.notification.add.file.group.noconversationname" = "%1$@ 님이 대화에서 새로운 파일을 공유함";
+
+"push.notification.add.file.oneonone" = "파일을 공유함";
+"push.notification.add.file.oneonone.nousername" = "대화에 새로운 파일이 생겼습니다";
+
+// LOCATION
+"push.notification.add.location.group" = "%1$@ 님이 위치를 공유함";
+"push.notification.add.location.group.nousername" = "새로운 위치";
+"push.notification.add.location.group.nousername.noconversationname" = "대화에 새로운 위치 공유가 있습니다";
+"push.notification.add.location.group.noconversationname" = "%1$@ 님이 대화에서 위치정버를 공유함";
+
+"push.notification.add.location.oneonone" = "위치를 공유함";
+"push.notification.add.location.oneonone.nousername" = "대화에 새로운 위치 공유가 있습니다";
+
+// SELF ADDED/REMOVED TO GROUPㅣ
+"push.notification.member.join.self" = "%1$@ 님이 회원님을 추가 했습니다";
+"push.notification.member.join.self.noconversationname" = "%1$@ 님이 회원님을 대화에 추가";
+"push.notification.member.join.self.nousername.noconversationname" = "회원님이 새로운 대화에 추가 되었습니다";
+"push.notification.member.join.self.nousername" = "회원님이 친구로 추가 되었습니다";
+
+"push.notification.member.leave.self" = "%1$@ 님이 회원님을 친구 목록에서 삭제하였습니다已";
+"push.notification.member.leave.self.noconversationname" = "회원님이%1$@한테 대화에서 제거  되었습니다";
+"push.notification.member.leave.self.nousername.noconversationname" = "회원님이 한 대화에서 제거 되었습니다";
+"push.notification.member.leave.self.nousername" = "회원님이 삭제";
+
+// EPHEMERAL MESSAGE TIMER UPDATE
+"push.notification.message-timer.update" = "%@님이 메시지 시간 제한을%@(으)로 설정함";
+"push.notification.message-timer.update.nousername" = "누군가 메시지 시간 제한을%@(으)로 설정함";
+"push.notification.message-timer.update.noconversationname" = "%@님이 메시지 시간 제한을%@(으)로 설정함";
+"push.notification.message-timer.update.nousername.noconversationname" = "누군가 메시지 시간 제한을%@(으)로 설정함";
+
+"push.notification.message-timer.off" = "%@님이 메시지 시간 제한을 끔";
+"push.notification.message-timer.off.nousername" = "누군가 메시지 시간 제한을 끔";
+"push.notification.message-timer.off.noconversationname" = "%@님이 메시지 시간 제한을 끔";
+"push.notification.message-timer.off.nousername.noconversationname" = "누군가 메시지 시간 제한을 끔";
+
+// VIDEO CALLS
+"push.notification.call.started.video.oneonone" = "회원님과 영상 통화하려고 합니다";
+"push.notification.call.started.video.oneonone.nousername" = "누군가이 회원님과 영상 통화하려고 합니다";
+
+"push.notification.call.started.video.group" = "%1$@님이 회원님과 영상 통화할려고 합니다";
+"push.notification.call.started.video.group.nousername" = "회원님과 영상 통화하려고 합니다";
+"push.notification.call.started.video.group.noconversationname" = "%1$@님이 회원님과 모 대화에서 영상 통화하려고 합니다";
+"push.notification.call.started.video.group.nousername.noconversationname" = "누군가 회원님과 영상 통화하려고 합니다";
+
+// VOICE CALLS
+"push.notification.call.started.oneonone" = "수신통화";
+"push.notification.call.started.oneonone.nousername" = "회원님에게 통화를 초대합니다";
+
+"push.notification.call.started.group" = "%1$@수신통화";
+"push.notification.call.started.group.nousername" = "회원님에게 통화를 초대합니다";
+"push.notification.call.started.group.noconversationname" = "%1$@님이 대화에서 통화를 초대하고 있습니다";
+"push.notification.call.started.group.nousername.noconversationname" = "모 멤버가 대화에서 통화를 초대하고 있습니다";
+
+// MISSED CALLS
+"push.notification.call.missed.group" = "%1$@님이 통화를 초대한적 있습니다曾来电";
+"push.notification.call.missed.group.nousername" = "누군가 회원님에게 통화를 초대한적있습니다";
+"push.notification.call.missed.group.nousername.noconversationname" = "대화의 모 멤버가 회원님을 통화 초대함";
+"push.notification.call.missed.group.noconversationname" = "대화에서의 %1$@ 님이 회원님을 초대함";
+
+"push.notification.call.missed.oneonone" = "통화를 초대한적 있습니다";
+"push.notification.call.missed.oneonone.nousername" = "누군가 회원님을 통화 초대함";
+
+// CALLKIT
+"push.notification.callkit.call.started.group" = "%1$@ 在 %2$@";
+"push.notification.callkit.call.started.group.nousername.noconversationname" = "대화에서 친구가 통화를 초대하고 있습니다";
+"push.notification.callkit.call.started.group.nousername" = "%1$@에서 친구가 통화를 초대하고 있습니다";
+"push.notification.callkit.call.started.group.noconversationname" = "대화에서%@님이 통화를 초대하고 있습니다";
+
+// CONVERSATION CREATE
+"push.notification.conversation.create" = "%1$@ 님이 그룹을 만들었습니다";
+"push.notification.conversation.create.nousername" = "누군가 그룹을 만들었습니다";
+
+// CONVERSATION DELETE
+"push.notification.conversation.delete" = "%1$@ deleted the group";
+"push.notification.conversation.delete.nousername" = "Someone deleted the group";
+
+// CONNECTIONS (there should be no alert titles for these)
+"push.notification.connection.request" = "%@s님이 회원님을 친구로 추가햐려고 합니다";
+"push.notification.connection.request.nousername" = "누군가 회원님을 친구로 추가햐려고 합니다有人想加您为好友";
+
+"push.notification.connection.accepted" = "회원님과%@님은 친구로 되었습니다과";
+"push.notification.connection.accepted.nousername" = "새로운 친구가 있습니다";
+
+// FAILED MESSAGE
+"push.notification.failed.message.oneonone" = "메시지를 보낼 수 없습니다";
+"push.notification.failed.message.oneonone.nousername" = "메시지를 보낼 수 없습니다";
+
+"push.notification.failed.message.group" = "메시지를 보낼 수 없습니다";
+"push.notification.failed.message.group.noconversationname" = "메시지를 보낼 수 없습니다";
+
+// AVAILABILITY ALERT
+
+"push.notification.alert.availability.away.title.team" = "Notifications are disabled in %@";
+"push.notification.alert.availability.away.title" = "Notifications are disabled";
+"push.notification.alert.availability.busy.title.team" = "Notifications have changed in %@";
+"push.notification.alert.availability.busy.title" = "Notifications have changed";
+
+"push.notification.alert.availability.away.message" = "Status affects notifications now. You’re set to “Away” and won’t receive any notifications.";
+"push.notification.alert.availability.busy.message" = "Status affects notifications now. You’re set to “Busy” and will only receive notifications when someone mentions you or replies to one of your messages.";
+
+// REACTIONS
+"push.notification.reaction.group" = "회원님의 메시지를%1$@ %2$@";
+"push.notification.reaction.group.nousername.noconversationname" = "대화에서 참여자가 회원님의 메시지를%@";
+"push.notification.reaction.group.nousername" = "참여자가 회원님의 메시지를%@";
+"push.notification.reaction.group.noconversationname" = "회원님이 대화에서의 메시지를%1$@ %2$@";
+
+"push.notification.reaction.oneonone" = "회원님의 메시지를%1$@";
+"push.notification.reaction.oneonone.nousername" = "참여자가 회원님의 메시지를%@";
+
+// NEW USER (no alert title for this)
+"push.notification.new_user" = "%@ 님이 방금 Secret에 가입하였습니다";
+
+// OTHER
+"push.notification.action.message.open" = "열기";
+"push.notification.action.message.reply" = "답장";
+"push.notification.action.message.reply.button.title" = "보내기";
+"push.notification.action.message.reply.placeholder" = "메시지를 입력해 주세요";
+"push.notification.action.conversation.mute" = "음 소거";
+"push.notification.action.message.like" = "♥";
+
+"push.notification.action.call.accept" = "수락";
+"push.notification.action.call.ignore" = "거부";
+"push.notification.action.call.message" = "메시지";
+"push.notification.action.call.callback" = "전화 걸기";
+"push.notification.action.connection.accept" = "응답";
